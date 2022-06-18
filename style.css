@@ -1,0 +1,97 @@
+body{
+	margin-top: 10%;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
+.container{
+	display: flex;
+	flex-direction: row;
+	width: 80%;
+}
+/*sedan-container*/
+.sedan-container{
+	background-color: rgb(226, 113, 37);
+	border-top-left-radius: 3%;
+	border-bottom-left-radius: 3%;
+	width: 100%;
+	padding: 2%;
+	padding-top: 4%;
+	padding-bottom: 4%;
+}
+.sedan{
+	padding: 2%;
+}
+.sedan-one{
+	color: white;
+	font-family: arial, Healvetica, sans-serif;
+	font-size: 32px;
+}
+.sedan-btn{
+	border: white;
+	border-radius: 20px;
+	padding: 10px;
+	padding-right: 20px;
+	padding-left:20px;
+	color: rgb(226, 113, 37);
+	background: white;
+}
+/*suvs-container*/
+.suvs-container{
+	background-color: rgb(1, 105, 114);
+	width: 100%;
+	padding: 3%;
+}
+.suvs{
+	padding: 3%;
+}
+.suvs-one{
+	color: white;
+	font-family: arial, Healvetica, sans-serif;
+	font-size: 32px;
+}
+.suvs-btn{
+	border: white;
+	border-radius: 20px;
+	padding: 10px;
+	padding-right: 20px;
+	padding-left:20px;
+	color: rgb(1, 105, 114);
+	background: white;
+}
+/*luxury-container*/
+.luxury-container{
+	background-color: rgb(0, 64, 63);
+	padding: 3%;
+	width: 100%;
+	border-top-right-radius: 3%;
+	border-bottom-right-radius: 3%;
+	
+}
+.luxury{
+	padding: 3%;
+}
+.luxury-two{
+	color: white;
+	font-family: arial, Healvetica, sans-serif;
+	font-size: 32px;
+}
+.luxury-btn{
+	border: white;
+	border-radius: 20px;
+	padding: 10px;
+	padding-right: 20px;
+	padding-left:20px;
+	color: rgb(0, 64, 63);
+	background: white;
+}
+
+p{
+	color: white;
+	padding: 5%;
+	border-radius: 60px;
+	margin-top: 10%;
+	border: none;
+}
+.btn{	padding-top: 30px;
+}
